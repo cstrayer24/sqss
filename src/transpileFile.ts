@@ -1,4 +1,4 @@
-import { readFileSync, appendFileSync } from "fs";
+import { readFileSync } from "fs";
 import getFileName from "./getFileName";
 import transpileLine from "./transpileLine";
 const transpileFile = (filePath: string) => {
