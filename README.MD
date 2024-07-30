@@ -1,6 +1,6 @@
 # Sqss
 
-Have you ever wanted to write sql like queries to style your webpages? No? Well now you can with sqss or Structured Query Style Sheets and on top of all this it is all of these positive tech phrases.
+Have you ever wanted to write sql like queries to style your webpages? No? Well now you can with sqss or Structured Query Style Sheets and on top of all this it is all of these positive tech phrases!
 
 - Blazingly fast
 - Revolutionary
